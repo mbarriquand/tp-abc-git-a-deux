@@ -24,3 +24,19 @@ Le concepteur développeur d’applications conçoit et développe des services 
 
 https://www.francecompetences.fr/recherche/rncp/31678/
 https://www.francecompetences.fr/recherche/rncp/37873/
+
+# Métiers Accessibles
+
+- Concepteur développeur, concepteur d'applications informatiques
+
+- Développeur d'applications, développeur informatique
+
+- Développeur back end, développeur front end, développeur full stack
+
+- Développeur d'applications mobiles
+
+- Développeur web, développeur web mobile, développeur web et web mobile
+
+- Ingénieur d'études et développement
+
+- Analyste programmeur informatique
