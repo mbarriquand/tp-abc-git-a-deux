@@ -19,3 +19,8 @@ Le concepteur développeur d’applications conçoit et développe des services 
 - Concevoir et développer la persistance des données en intégrant les recommandations de sécurité
 - Concevoir et développer une application multicouche répartie en intégrant les recommandations de sécurité 
 - Utiliser l'anglais dans son activité professionnelle
+
+# Fiche(s) ROME
+
+https://www.francecompetences.fr/recherche/rncp/31678/
+https://www.francecompetences.fr/recherche/rncp/37873/
