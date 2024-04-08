@@ -12,3 +12,10 @@ Le concepteur développeur d’applications conçoit et développe des services 
 # Durée
 
 2660 heures (soit 19 mois) dont 560 heures de Périodes d’Applications en Entreprises
+
+# Objectifs
+
+- Concevoir et développer des composants d'interface utilisateur en intégrant les recommandations de sécurité 
+- Concevoir et développer la persistance des données en intégrant les recommandations de sécurité
+- Concevoir et développer une application multicouche répartie en intégrant les recommandations de sécurité 
+- Utiliser l'anglais dans son activité professionnelle
